@@ -1,0 +1,14 @@
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\bin\Debug\net8.0\Teste Técnico - Target.exe
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\bin\Debug\net8.0\Teste Técnico - Target.deps.json
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\bin\Debug\net8.0\Teste Técnico - Target.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\bin\Debug\net8.0\Teste Técnico - Target.dll
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\bin\Debug\net8.0\Teste Técnico - Target.pdb
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.dll
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\refint\Teste Técnico - Target.dll
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.pdb
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\Teste Técnico - Target.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\Estudos\Teste Técnico - Target\obj\Debug\net8.0\ref\Teste Técnico - Target.dll

@@ -1,0 +1,2 @@
+Este programa foi feito exclusivamente para um teste técnico na empresa Target Sistemas. 
+Para iniciar o programa, basta abrir o terminal (CTRL + ') e digitar o comando "dotnet run". Então sinta-se livre para navegar pelo menu. 
